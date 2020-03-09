@@ -6,7 +6,7 @@ In this project, we will analyze simulated datasets containing transaction, demo
 
 1. [Installation and instructions](#installation)
 2. [Motivation](#motivation)
-3. [File Descriptions (*.ipynb, *.json)](#files)
+3. [File Descriptions (*.ipynb, *.json, *.pdf)](#files)
 4. [Summary Results](#summaryresults)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -23,6 +23,10 @@ Hint: To check for the current working directory using the available notebooks j
 
 4. Additionally, the targeted_offers.py file can be run from python command line with the following command,<br/>
 **python targeted_offers.py data\portfolio.json data\transcript.json data\profile.json**
+
+5. The Capstone project proposal is available with Proposal.pdf
+
+6. A complete report and analysis is available with Starbucks Rewards Recommender Project.pdf
 
 ## Motivation<a name="motivation"></a>
 
@@ -83,7 +87,7 @@ In this project I analyzed 3 simulated datasets containing transactions on the S
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(b) Male customers with age < 45 years and yearly income >= 64000 USD<br/>*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(c) Male customers with age >= 45 years and yearly income >= 64000 USD<br/>*
 
-A more detailed summary of all these analysis are available in my blogpost [here](https://medium.com/@karthic.guna/machine-learning-heuristic-approaches-to-recommend-offers-3f963543e12e).
+A more detailed summary of all these analysis are available with the attached Starbucks Rewards Recommender Project.pdf and the 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Since this was a Capstone project for Udacity Data Scientist Nano Degree program, you can find more descriptions about these simulated datasets from a business perspective and also the other types of experiment we could conduct on them in this video [here](https://classroom.udacity.com/nanodegrees/nd025/parts/84260e1f-2926-4127-895f-cc4432b05059/modules/80c955ce-72f2-403a-9bf5-cc58636dab9d/lessons/d6285247-6bc0-4783-b118-6f41981b9469/concepts/480e9dc2-4726-4582-81d7-3b8e6a863450). 
