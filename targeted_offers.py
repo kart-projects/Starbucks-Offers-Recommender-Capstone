@@ -2,8 +2,7 @@
 import sys
 import pandas as pd
 import numpy as np
-import math
-import json
+
 
 def load_data(portfolio_filepath, transcript_filepath, profile_filepath):
     """
